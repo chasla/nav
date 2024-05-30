@@ -115,14 +115,6 @@ content:
         - name: namebeta
           description: 各类域名后缀注册查询
           url: https://namebeta.com/
-    - name: 下载资源
-      sites:
-        - name: BTnull
-          description: 网盘资源
-          url: https://www.btnull.org/user/login/
-        - name: 盘友社区
-          description: 阿里网盘资源
-          url: https://ali.pan123456789.com/
     - name: SEO
       sites:
         - name: SEO手册
@@ -190,6 +182,22 @@ content:
         - name: inpaintweb
           description: 图片去除多余人物
           url: https://inpaintweb.lxfater.com/
+    - name: 站长工具
+      sites:
+        - name: easyscraper爬虫
+          description: 免费可视化爬虫
+          url: https://easyscraper.com/
+        - name: instantdata爬虫
+          description: 免费可视化爬虫（推荐）+搭配chatgpt
+          url: https://https://webrobots.io/instantdata/
+    - name: 下载资源
+      sites:
+        - name: BTnull
+          description: 网盘资源
+          url: https://www.btnull.org/user/login/
+        - name: 盘友社区
+          description: 阿里网盘资源
+          url: https://ali.pan123456789.com/
     - name: 电子邮箱
       sites:
         - name: Fastmail
@@ -227,8 +235,17 @@ content:
         - name: earthworm
           description: 英语学习网
           url: https://earthworm.cuixueshe.com/
+        - name: 微软AI口语
+          description: 微软AI口语练习
+          url: https://coach.microsoft.com/
     - name: 开源软件
       sites:
         - name: QuickRecorder
           description: 开源录屏软件
           url: https://github.com/lihaoyun6/QuickRecorder
+        - name: edgetunnel
+          description: 懂的都懂
+          url: https://github.com/cmliu/edgetunnel
+        - name: 订阅汇集
+          description: 各种订阅汇集管理
+          url: https://github.com/cmliu/CF-Workers-SUB
