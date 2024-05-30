@@ -240,6 +240,9 @@ content:
         - name: picprose  
           description: 封面图片编辑
           url: https://www.picprose.net/en
+        - name: spacexcode  
+          description: 封面图生成器
+          url: https://spacexcode.com/coverview/
         - name: cobalt
           description: 视频下载(推荐）
           url: https://cobalt.tools/
