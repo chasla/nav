@@ -25,7 +25,7 @@ google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
   search:
-    enabled: true
+    enabled: false
     default: google
     # 可选的搜索引擎
     engines:
