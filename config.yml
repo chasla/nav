@@ -178,6 +178,9 @@ content:
         - name: Savetube
           description: 油管视频下载
           url: https://save.tube/
+        - name: superparse
+          description: 油管视频下载
+          url: https://superparse.com/
         - name: v.hi.sy
           description: 油管视频下载
           url: https://v.hi.sy/
