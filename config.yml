@@ -137,6 +137,9 @@ content:
         - name: Similarweb
           description: Similarweb
           url: https://www.similarweb.com/
+        - name: ahrefs
+          description: ahrefs
+          url: https://www.ahrefs.com/
     - name: 工具
       sites:
         - name: 帮小忙
