@@ -97,44 +97,14 @@ content:
         - name: IPchecking
           description: IPChecking
           url: https://ipcheck.ing/
-    - name: 社区资讯
+    - name: 下载资源
       sites:
-        - name: 雷锋网
-          description: 人工智能和智能硬件领域的互联网科技媒体
-          url: https://www.leiphone.com/
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
-        - name: 数英网
-          description: 数字媒体及职业招聘网站
-          url: https://www.digitaling.com/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
-        - name: 人人都是产品经理
-          description: 产品经理、产品爱好者学习交流平台
-          url: http://www.woshipm.com/
-        - name: 互联网早读课
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
-        - name: 产品壹佰
-          description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-          url: http://www.chanpin100.com/
-        - name: PMCAFF
-          description: 中国第一产品经理人气组织，专注于研究互联网产品
-          url: http://www.pmcaff.com/
-        - name: 爱运营
-          description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-          url: http://www.iyunying.org/
-        - name: 鸟哥笔记
-          description: 移动互联网第一干货平台
-          url: http://www.niaogebiji.com/
-        - name: 古田路9号
-          description: 国内专业品牌创意平台
-          url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
+        - name: BTnull
+          description: 网盘资源
+          url: https://www.btnull.org/user/login/
+        - name: 盘友社区
+          description: 阿里网盘资源
+          url: https://ali.pan123456789.com/
     - name: 发现产品
       sites:
         - name: NEXT
