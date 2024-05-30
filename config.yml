@@ -160,6 +160,9 @@ content:
         - name: removebg
           description: 背景消除
           url: https://www.remove.bg/
+        - name: imagedraft
+          description: 小红书twitter配图ai生成
+          url: https://imagedraft.com/
         - name: 12FT  
           description: 破收费阅读
           url: https://12ft.io/
@@ -218,3 +221,8 @@ content:
         - name: earthworm
           description: 英语学习网
           url: https://earthworm.cuixueshe.com/
+    - name: 开源软件
+      sites:
+        - name: QuickRecorder
+          description: 开源录屏软件
+          url: https://github.com/lihaoyun6/QuickRecorder
