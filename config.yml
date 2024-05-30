@@ -211,6 +211,9 @@ content:
         - name: 微信公众号排版
           description: 微信公众号排版
           url: https://doocs.github.io/md/
+        - name: awesome-cloudflare
+          description: 赛博佛祖cloudflare
+          url: https://github.com/zhuima/awesome-cloudflare
         - name: ideogram
           description: logo设计生成
           url: https://ideogram.ai/t/explore
