@@ -274,6 +274,15 @@ content:
         - name: hostloc
           description: hostloc
           url: https://www.hostloc.com
+        - name: tld-list
+          description: 最低价域名注册
+          url: https://zh-hans.tld-list.com/
+        - name: 哪煮米
+          description: 最低价域名注册
+          url: https://nazhumi.com/
+        - name: spaceship
+          description: 注册6数xyz
+          url: https://spaceship.com/
         - name: racknerd
           description: vps
           url: https://www.racknerd.com
