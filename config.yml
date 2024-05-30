@@ -157,6 +157,9 @@ content:
         - name: ideogram
           description: logo设计生成
           url: https://ideogram.ai/t/explore
+        - name: removebg
+          description: 背景消除
+          url: https://www.remove.bg/
         - name: 12FT  
           description: 破收费阅读
           url: https://12ft.io/
