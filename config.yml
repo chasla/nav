@@ -101,6 +101,12 @@ content:
         - name: SEO手册
           description: SEO手册
           url: https://allinone.quickso.cn/
+        - name: SEOBOX
+          description: SEOBOX
+          url: https://seo.box/
+        - name: aitdk
+          description: seochrome插件
+          url: https://seo.box/
     - name: 工具
       sites:
         - name: 帮小忙
