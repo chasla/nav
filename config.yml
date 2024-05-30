@@ -225,8 +225,11 @@ content:
           description: 油管视频下载
           url: https://v.hi.sy/
         - name: inpaintweb
-          description: 图片去除多余人物
+          description: ai抠图
           url: https://inpaintweb.lxfater.com/
+        - name: removebg
+          description: ai抠图
+          url: https://removebg.one/
     - name: 站长工具
       sites:
         - name: easyscraper爬虫
