@@ -140,6 +140,9 @@ content:
         - name: ahrefs
           description: ahrefs
           url: https://www.ahrefs.com/
+        - name: Seo工具
+          description: Seo工具
+          url: https://seo.chuhai.tools/
     - name: 工具
       sites:
         - name: 帮小忙
