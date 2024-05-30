@@ -266,6 +266,20 @@ content:
         - name: instantdata爬虫
           description: 免费可视化爬虫（推荐）+搭配chatgpt
           url: https://webrobots.io/instantdata/
+    - name: MJJ
+      sites:
+        - name: nodeseek
+          description: nodeseek
+          url: https://www.nodeseek.com
+        - name: hostloc
+          description: hostloc
+          url: https://www.hostloc.com
+        - name: racknerd
+          description: vps
+          url: https://www.racknerd.com
+        - name: kurun
+          description: vps
+          url: https://www.kurun.com
     - name: 下载资源
       sites:
         - name: BTnull
