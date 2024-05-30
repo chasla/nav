@@ -108,6 +108,12 @@ content:
         - name: 文心一言
           description: 百度大模型
           url: https://yiyan.baidu.com/agreement
+        - name: 豆包
+          description: 抖音大模型
+          url: https://doubao.com
+        - name: kimi
+          description: kimi
+          url: https://kimi.moonshot.cn/
         - name: Gpts hunter
           description: Gpts推荐
           url: https://gptshunter.com/
