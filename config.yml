@@ -128,6 +128,9 @@ content:
         - name: aitdk
           description: seochrome插件
           url: https://seo.box/
+        - name: SEOjournal
+          description: SEO资讯站
+          url: https://www.searchenginejournal.com/
     - name: 工具
       sites:
         - name: 帮小忙
