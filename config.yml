@@ -49,15 +49,24 @@ content:
         - name: bestblogs
           description: 新闻汇集feed阅读
           url: https://www.bestblogs.dev/feeds?featured=y
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
+        - name: 工具集合
+          description: 实用工具集合
+          url: https://tool.lu/
+        - name: 工具集合
+          description: 实用工具集合
+          url: https://tool.lu/
         - name: hostinger
           description: hostinger后台
           url: https://hpanel.hostinger.com/
         - name: multcloud
           description: 网盘同步平台
           url: https://www.multcloud.com/
+        - name: 火车票查询
+          description: 火车票查询
+          url: https://mobile.12306.cn/weixin/wxcore/init
+        - name: 飞机票查询
+          description: 飞机票查询
+          url: https://www.fliggy.com/
     - name: AI
       sites:
         - name: perplexity
