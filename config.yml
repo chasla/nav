@@ -154,6 +154,9 @@ content:
         - name: 微信公众号排版
           description: 微信公众号排版
           url: https://doocs.github.io/md/
+        - name: ideogram
+          description: logo设计生成
+          url: https://ideogram.ai/t/explore
         - name: 12FT  
           description: 破收费阅读
           url: https://12ft.io/
