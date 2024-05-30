@@ -143,6 +143,23 @@ content:
         - name: sinqi
           description: sinqi tools
           url: https://sinqi.tools/
+    - name: 新闻信息
+      sites:
+        - name: tophub
+          description: 今日热榜
+          url: https://tophub.today/
+        - name: 什么值得看
+          description: 什么值得看
+          url: https://smzdk.top/
+        - name: readhub
+          description: readhub
+          url: https://readhub.cn/
+        - name: 浑水阅读
+          description: 浑水阅读
+          url: https://www.hsmy.fun/
+        - name: Hacker News
+          description: Hacker News
+          url: https://news.ycombinator.com
     - name: 网络调试
       sites:
         - name: IPINFO
