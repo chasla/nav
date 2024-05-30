@@ -81,6 +81,9 @@ content:
         - name: Chatgpt
           description: Chatgpt
           url: https://chatgpt.com/
+        - name: Gpts hunter
+          description: Gpts推荐
+          url: https://gptshunter.com/
     - name: 工具导航
       sites:
         - name: IT人必备
