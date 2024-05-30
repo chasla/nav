@@ -131,6 +131,12 @@ content:
         - name: SEOjournal
           description: SEO资讯站
           url: https://www.searchenginejournal.com/
+        - name: Semrush
+          description: Semrush
+          url: https://www.semrush.com/
+        - name: Similarweb
+          description: Similarweb
+          url: https://www.similarweb.com/
     - name: 工具
       sites:
         - name: 帮小忙
