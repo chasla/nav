@@ -104,6 +104,9 @@ content:
         - name: SEO手册
           description: SEO手册
           url: https://allinone.quickso.cn/
+        - name: SEO新手指南
+          description: SEO新手指南
+          url: https://ahrefs.com/zh/seo
         - name: SEOBOX
           description: SEOBOX
           url: https://seo.box/
@@ -142,7 +145,7 @@ content:
           description: fastmail
           url: https://www.fastmail.com/
         - name: gmail地址生成器
-          description: gmail地址生成器
+          description: Gmail地址生成器
           url: https://gmail.inputekno.com/
         - name: Gmail临时邮箱
           description: Gmail临时邮箱
