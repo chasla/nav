@@ -120,6 +120,9 @@ content:
         - name: Chatgpt指令大全
           description: Chatgpt指令大全
           url: https://www.explainthis.io/zh-hans/chatgpt
+        - name: AI指令生成
+          description: AI指令生成
+          url: https://prompt-generator.llm2d.cc/
         - name: 各大模型比价
           description: LLM比价工具
           url: https://llmpricecheck.com/
