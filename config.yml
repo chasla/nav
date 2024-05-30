@@ -84,9 +84,45 @@ content:
         - name: Chatgpt
           description: Chatgpt
           url: https://chatgpt.com/
+        - name: Coze
+          description: coze
+          url: https://coze.com/
+        - name: claude
+          description: claude
+          url: https://claude.ai/
+        - name: gemini
+          description: 谷歌大模型
+          url: https://gemini.google.com/
+        - name: 微软copilot
+          description: 微软copilot
+          url: https://copilot.microsoft.com/
+        - name: cohere
+          description: cohere
+          url: https://cohere.com/
+        - name: groq
+          description: groq
+          url: https://groq.com/
+        - name: 通义千问
+          description: 阿里大模型
+          url: https://tongyi.aliyun.com/qianwen/
+        - name: 文心一言
+          description: 百度大模型
+          url: https://yiyan.baidu.com/agreement
         - name: Gpts hunter
           description: Gpts推荐
           url: https://gptshunter.com/
+        - name: AI大模型入门
+          description: AI大模型入门
+          url: https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc
+        - name: Chatgpt指令大全
+          description: Chatgpt指令大全
+          url: https://www.explainthis.io/zh-hans/chatgpt
+        - name: 各大模型比价
+          description: LLM比价工具
+          url: https://llmpricecheck.com/
+        - name: 国产模型比价
+          description: LLM比价工具
+          url: https://aigcrank.cn/llmprice/
     - name: 工具导航
       sites:
         - name: IT人必备
@@ -192,7 +228,7 @@ content:
           url: https://easyscraper.com/
         - name: instantdata爬虫
           description: 免费可视化爬虫（推荐）+搭配chatgpt
-          url: https://https://webrobots.io/instantdata/
+          url: https://webrobots.io/instantdata/
     - name: 下载资源
       sites:
         - name: BTnull
