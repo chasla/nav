@@ -112,6 +112,9 @@ content:
         - name: Savetube
           description: 油管视频下载
           url: https://save.tube/
+        - name: inpaintweb
+          description: 图片去除多余人物
+          url: https://inpaintweb.lxfater.com/
     - name: 发现产品
       sites:
         - name: NEXT
