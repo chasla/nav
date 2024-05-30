@@ -71,6 +71,9 @@ content:
         - name: IT人必备
           description: IT人必备（推荐）
           url: https://666666.dev/
+        - name: sinqi
+          description: sinqi tools
+          url: https://sinqi.tools/
     - name: 网络调试
       sites:
         - name: IPINFO
