@@ -160,6 +160,9 @@ content:
         - name: picprose  
           description: 封面图片编辑
           url: https://www.picprose.net/en
+        - name: cobalt
+          description: 视频下载(推荐）
+          url: https://cobalt.tools/
         - name: Savetube
           description: 油管视频下载
           url: https://save.tube/
