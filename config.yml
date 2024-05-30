@@ -277,6 +277,9 @@ content:
         - name: hostloc
           description: hostloc
           url: https://www.hostloc.com
+        - name: dalao
+          description: 短域名
+          url: https://www.dalao.net
         - name: tld-list
           description: 最低价域名注册
           url: https://zh-hans.tld-list.com/
