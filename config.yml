@@ -129,6 +129,9 @@ content:
         - name: 国产模型比价
           description: LLM比价工具
           url: https://aigcrank.cn/llmprice/
+        - name: openl
+          description: AI内容识别
+          url: https://openl.io/ai-detector
     - name: 工具导航
       sites:
         - name: IT人必备
