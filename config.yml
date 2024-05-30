@@ -201,3 +201,11 @@ content:
         - name: Dmarcly
           description: Dmarcly Tools
           url: https://dmarcly.com/tools/
+    - name: 其他
+      sites:
+        - name: 诗词学习
+          description: 中国诗词学习网站
+          url: https://aspoem.com/zh-Hans
+        - name: earthworm
+          description: 英语学习网
+          url: https://earthworm.cuixueshe.com/
