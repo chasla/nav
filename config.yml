@@ -40,6 +40,9 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: Sigs
+          description: Sigs
+          url: https://si.gs/
         - name: Dribbble
           description: 全球UI设计师作品分享平台。
           url: https://dribbble.com/
