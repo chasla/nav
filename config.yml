@@ -140,6 +140,9 @@ content:
         - name: 出海工具箱
           description: 出海工具箱
           url: https://indiehackertools.net/
+        - name: 出海工具箱
+          description: 出海工具箱
+          url: https://github.com/weijunext/indie-hacker-tools
         - name: sinqi
           description: sinqi tools
           url: https://sinqi.tools/
