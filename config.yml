@@ -72,6 +72,12 @@ content:
         - name: perplexity
           description: perplexity（推荐）
           url: https://www.perplexity.ai/
+        - name: Devv
+          description: Devv
+          url: https://devv.ai/
+        - name: phind
+          description: phind
+          url: https://phind.com/
         - name: Chatgpt
           description: Chatgpt
           url: https://chatgpt.com/
