@@ -105,6 +105,31 @@ content:
         - name: 盘友社区
           description: 阿里网盘资源
           url: https://ali.pan123456789.com/
+    - name: SEO
+      sites:
+        - name: SEO手册
+          description: SEO手册
+          url: https://allinone.quickso.cn/
+    - name: 工具
+      sites:
+        - name: 帮小忙
+          description: 腾讯帮小忙
+          url: https://tool.browser.qq.com/
+        - name: 微信公众号排版
+          description: 微信公众号排版
+          url: https://doocs.github.io/md/
+        - name: 12FT  
+          description: 破收费阅读
+          url: https://12ft.io/
+        - name: SVGviewer 
+          description: SVG编辑器
+          url: https://svgviewer.dev/
+        - name: picprose  
+          description: 封面图片编辑
+          url: https://www.picprose.net/en
+        - name: Savetube
+          description: 油管视频下载
+          url: https://save.tube/
     - name: 发现产品
       sites:
         - name: NEXT
