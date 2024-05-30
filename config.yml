@@ -52,9 +52,6 @@ content:
         - name: 工具集合
           description: 实用工具集合
           url: https://tool.lu/
-        - name: 工具集合
-          description: 实用工具集合
-          url: https://tool.lu/
         - name: hostinger
           description: hostinger后台
           url: https://hpanel.hostinger.com/
