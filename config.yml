@@ -81,11 +81,17 @@ content:
         - name: Chatgpt
           description: Chatgpt
           url: https://chatgpt.com/
-    - name: 导航
+    - name: 工具导航
       sites:
         - name: IT人必备
           description: IT人必备（推荐）
           url: https://666666.dev/
+        - name: 帮小忙
+          description: 腾讯帮小忙
+          url: https://tool.browser.qq.com/
+        - name: 出海工具箱
+          description: 出海工具箱
+          url: https://indiehackertools.net/
         - name: sinqi
           description: sinqi tools
           url: https://sinqi.tools/
@@ -145,9 +151,6 @@ content:
           url: https://seo.chuhai.tools/
     - name: 工具
       sites:
-        - name: 帮小忙
-          description: 腾讯帮小忙
-          url: https://tool.browser.qq.com/
         - name: 微信公众号排版
           description: 微信公众号排版
           url: https://doocs.github.io/md/
