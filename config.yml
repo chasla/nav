@@ -273,6 +273,9 @@ content:
         - name: 无版权音乐
           description: 无版权音乐
           url: https://mixkit.co/
+        - name: JINA
+          description: URL在线PDF解析文本
+          url: https://r.jina.ai/
     - name: 站长工具
       sites:
         - name: easyscraper爬虫
