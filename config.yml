@@ -188,6 +188,9 @@ content:
         - name: namebeta
           description: 各类域名后缀注册查询
           url: https://namebeta.com/
+        - name: WebRTC Leak
+          description: WebRTC Leak
+          url: https://browserleaks.com/webrtc
     - name: SEO
       sites:
         - name: SEO手册
