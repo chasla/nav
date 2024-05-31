@@ -264,6 +264,9 @@ content:
         - name: removebg
           description: ai抠图
           url: https://removebg.one/
+        - name: 无版权音乐
+          description: 无版权音乐
+          url: https://mixkit.co/
     - name: 站长工具
       sites:
         - name: easyscraper爬虫
