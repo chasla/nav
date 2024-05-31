@@ -130,8 +130,11 @@ content:
           description: LLM比价工具
           url: https://aigcrank.cn/llmprice/
         - name: openl
-          description: AI内容识别
+          description: AI内容识别探测
           url: https://openl.io/ai-detector
+        - name: ChatTTS
+          description: AI语音生成（推荐）
+          url: https://github.com/2noise/ChatTTS
     - name: 工具导航
       sites:
         - name: IT人必备
