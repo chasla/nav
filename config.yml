@@ -298,6 +298,11 @@ content:
         - name: kurun
           description: vps
           url: https://www.kurun.com
+    - name: 跨境外贸
+      sites:
+        - name: 跨境电商AI提示词
+          description: 跨境电商AI提示词
+          url: https://www.m123.com/ChatGPT
     - name: 下载资源
       sites:
         - name: BTnull
