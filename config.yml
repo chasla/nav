@@ -191,6 +191,9 @@ content:
         - name: WebRTC Leak
           description: WebRTC Leak
           url: https://browserleaks.com/webrtc
+        - name: ipleak
+          description: ipleak
+          url: https://ipleak.net/
     - name: SEO
       sites:
         - name: SEO手册
