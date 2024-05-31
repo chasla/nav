@@ -306,6 +306,15 @@ content:
         - name: 跨境电商AI提示词
           description: 跨境电商AI提示词
           url: https://www.m123.com/ChatGPT
+        - name: 各国节假日
+          description: 各国节假日
+          url: https://www.timeanddate.com/holidays/
+        - name: 船舶定位
+          description: 船舶定位
+          url: https://www.shipxy.com/
+        - name: 中行外汇牌价
+          description: 中行外汇牌价
+          url: https://www.boc.cn/sourcedb/whpj/
     - name: 下载资源
       sites:
         - name: BTnull
