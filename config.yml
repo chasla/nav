@@ -166,29 +166,6 @@ content:
         - name: Hacker News
           description: Hacker News
           url: https://news.ycombinator.com
-    - name: 网络调试
-      sites:
-        - name: IPINFO
-          description: IP查询
-          url: https://ipinfo.io/
-        - name: IPchecking
-          description: IPChecking
-          url: https://ipcheck.ing/
-        - name: DNSdumpster
-          description: DNS解析查询
-          url: https://dnsdumpster.com/
-        - name: fofa
-          description: 网络空间搜索引擎
-          url: https://en.fofa.info/
-        - name: namebeta
-          description: 各类域名后缀注册查询
-          url: https://namebeta.com/
-        - name: WebRTC Leak
-          description: WebRTC Leak
-          url: https://browserleaks.com/webrtc
-        - name: ipleak
-          description: ipleak
-          url: https://ipleak.net/
     - name: SEO
       sites:
         - name: SEO手册
@@ -275,11 +252,29 @@ content:
         - name: v.hi.sy
           description: 油管视频下载
           url: https://v.hi.sy/
-        - name: 无版权音乐
-          description: 无版权音乐
-          url: https://mixkit.co/
     - name: 站长工具
       sites:
+        - name: IPINFO
+          description: IP查询
+          url: https://ipinfo.io/
+        - name: IPchecking
+          description: IPChecking
+          url: https://ipcheck.ing/
+        - name: DNSdumpster
+          description: DNS解析查询
+          url: https://dnsdumpster.com/
+        - name: fofa
+          description: 网络空间搜索引擎
+          url: https://en.fofa.info/
+        - name: namebeta
+          description: 各类域名后缀注册查询
+          url: https://namebeta.com/
+        - name: WebRTC Leak
+          description: WebRTC Leak
+          url: https://browserleaks.com/webrtc
+        - name: ipleak
+          description: ipleak
+          url: https://ipleak.net/
         - name: awesome-cloudflare
           description: 赛博佛祖cloudflare
           url: https://github.com/zhuima/awesome-cloudflare
@@ -289,6 +284,12 @@ content:
         - name: instantdata爬虫
           description: 免费可视化爬虫（推荐）+搭配chatgpt
           url: https://webrobots.io/instantdata/
+        - name: web-check
+          description: 强大的网站监测工具
+          url: https://web-check.xyz
+        - name: whoer
+          description: 伪装监测
+          url: https://whoer.net/zh
     - name: MJJ
       sites:
         - name: nodeseek
@@ -315,6 +316,32 @@ content:
         - name: kurun
           description: vps
           url: https://www.kurun.com
+    - name: 免费素材
+      sites:
+        - name: Unsplash
+          description: Unsplash
+          url: https://Unsplash.com
+        - name: Foodiesfeed
+          description: 食物厨房用品照片
+          url: https://Foodiesfeed.com
+        - name: Stokpic
+          description: Stokpic
+          url: https://Stokpic.com
+        - name: Pixabay
+          description: Pixabay
+          url: https://Pixabay.com
+        - name: Burstshopify
+          description: shopify免费照片
+          url: https://Burst.shopify.com
+        - name: bucketlistly
+          description: 户外旅游照片
+          url: https://Photos.bucketlistly.com
+        - name: Pexels
+          description: Pexels
+          url: https://Pexels.com
+        - name: 无版权音乐
+          description: 无版权音乐
+          url: https://mixkit.co/
     - name: 跨境外贸
       sites:
         - name: 跨境电商AI提示词
@@ -371,7 +398,7 @@ content:
         - name: 信息差
           description: 独立开发者出海周刊
           url: https://gapis.money/
-    - name: 其他
+    - name: 学习
       sites:
         - name: 诗词学习
           description: 中国诗词学习网站
@@ -382,6 +409,12 @@ content:
         - name: 微软AI口语
           description: 微软AI口语练习
           url: https://coach.microsoft.com/
+        - name: 语法俱乐部
+          description: 语法俱乐部
+          url: https://llwslc.github.io/grammar-club/
+        - name: coursera
+          description: 在线公开课
+          url: https://www.coursera.org/
     - name: 开源软件
       sites:
         - name: QuickRecorder
