@@ -230,7 +230,7 @@ content:
           url: https://doocs.github.io/md/
         - name: Word公文编辑模版
           description: Word公文编辑模版
-          url: https://github.com/chasla/word-templates/blob/main/word%E5%85%AC%E6%96%87%E6%8E%92%E7%89%88%E6%A8%A1%E7%89%88.dotx
+          url: https://github.com/chasla/word-templates
         - name: JINA
           description: URL在线PDF解析文本
           url: https://r.jina.ai/
