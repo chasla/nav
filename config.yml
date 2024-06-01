@@ -46,9 +46,6 @@ content:
         - name: bestblogs
           description: 新闻汇集feed阅读
           url: https://www.bestblogs.dev/feeds?featured=y
-        - name: 工具集合
-          description: 实用工具集合
-          url: https://tool.lu/
         - name: hostinger
           description: hostinger后台
           url: https://hpanel.hostinger.com/
@@ -149,6 +146,9 @@ content:
         - name: sinqi
           description: sinqi tools
           url: https://sinqi.tools/
+        - name: 工具集合
+          description: 实用工具集合
+          url: https://tool.lu/
     - name: 新闻信息
       sites:
         - name: tophub
@@ -166,11 +166,6 @@ content:
         - name: Hacker News
           description: Hacker News
           url: https://news.ycombinator.com
-    - name: podcast
-      sites:
-        - name: 信息差
-          description: 独立开发者出海周刊
-          url: https://gapis.money/
     - name: 网络调试
       sites:
         - name: IPINFO
@@ -371,6 +366,11 @@ content:
         - name: Dmarcly
           description: Dmarcly Tools
           url: https://dmarcly.com/tools/
+    - name: podcast
+      sites:
+        - name: 信息差
+          description: 独立开发者出海周刊
+          url: https://gapis.money/
     - name: 其他
       sites:
         - name: 诗词学习
