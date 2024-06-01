@@ -40,9 +40,6 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: VIOX
-          description: VIOX
-          url: https://viox.com/
         - name: oyunfor
           description: 土区APPLE Giftcard购买
           url: https://www.oyunfor.com/apple-store/apple-store-itunes-gift-card
@@ -226,14 +223,25 @@ content:
         - name: Seo工具
           description: Seo工具
           url: https://seo.chuhai.tools/
-    - name: 工具
+    - name: 文字编辑工具
       sites:
         - name: 微信公众号排版
           description: 微信公众号排版
           url: https://doocs.github.io/md/
-        - name: awesome-cloudflare
-          description: 赛博佛祖cloudflare
-          url: https://github.com/zhuima/awesome-cloudflare
+        - name: Word公文编辑模版
+          description: Word公文编辑模版
+          url: https://github.com/chasla/word-templates/blob/main/word%E5%85%AC%E6%96%87%E6%8E%92%E7%89%88%E6%A8%A1%E7%89%88.dotx
+        - name: JINA
+          description: URL在线PDF解析文本
+          url: https://r.jina.ai/
+        - name: Geekcard
+          description: 卡片文字分享工具
+          url: https://geekcard.app/
+        - name: 12FT  
+          description: 破收费阅读
+          url: https://12ft.io/
+    - name: 图片编辑工具
+      sites:
         - name: ideogram
           description: logo设计生成
           url: https://ideogram.ai/t/explore
@@ -243,9 +251,6 @@ content:
         - name: imagedraft
           description: 小红书twitter配图ai生成
           url: https://imagedraft.com/
-        - name: 12FT  
-          description: 破收费阅读
-          url: https://12ft.io/
         - name: SVGviewer 
           description: SVG编辑器
           url: https://svgviewer.dev/
@@ -255,6 +260,14 @@ content:
         - name: spacexcode  
           description: 封面图生成器
           url: https://spacexcode.com/coverview/
+        - name: inpaintweb
+          description: ai抠图
+          url: https://inpaintweb.lxfater.com/
+        - name: removebg
+          description: ai抠图
+          url: https://removebg.one/
+    - name: 视频编辑工具
+      sites:
         - name: cobalt
           description: 视频下载(推荐）
           url: https://cobalt.tools/
@@ -267,23 +280,14 @@ content:
         - name: v.hi.sy
           description: 油管视频下载
           url: https://v.hi.sy/
-        - name: inpaintweb
-          description: ai抠图
-          url: https://inpaintweb.lxfater.com/
-        - name: removebg
-          description: ai抠图
-          url: https://removebg.one/
         - name: 无版权音乐
           description: 无版权音乐
           url: https://mixkit.co/
-        - name: JINA
-          description: URL在线PDF解析文本
-          url: https://r.jina.ai/
-        - name: Geekcard
-          description: 卡片文字分享工具
-          url: https://geekcard.app/
     - name: 站长工具
       sites:
+        - name: awesome-cloudflare
+          description: 赛博佛祖cloudflare
+          url: https://github.com/zhuima/awesome-cloudflare
         - name: easyscraper爬虫
           description: 免费可视化爬虫
           url: https://easyscraper.com/
@@ -299,7 +303,7 @@ content:
           description: hostloc
           url: https://www.hostloc.com
         - name: dalao
-          description: 短域名
+          description: 短域名论坛
           url: https://www.dalao.net
         - name: tld-list
           description: 最低价域名注册
