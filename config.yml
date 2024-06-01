@@ -59,7 +59,7 @@ content:
           description: 飞机票查询
           url: https://www.fliggy.com/
         - name: teracloud
-          description: 因我有45G永久容量
+          description: 网盘
           url: https://seto.teracloud.jp/browser/
     - name: AI
       sites:
