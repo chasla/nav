@@ -279,6 +279,9 @@ content:
         - name: JINA
           description: URL在线PDF解析文本
           url: https://r.jina.ai/
+        - name: Geekcard
+          description: 卡片文字分享工具
+          url: https://geekcard.app/
     - name: 站长工具
       sites:
         - name: easyscraper爬虫
