@@ -238,6 +238,9 @@ content:
         - name: removebg
           description: ai抠图
           url: https://removebg.one/
+        - name: ps样机
+          description: ps样机
+          url: https://psyangji.com/
     - name: 视频编辑工具
       sites:
         - name: cobalt
