@@ -241,6 +241,9 @@ content:
         - name: ps样机
           description: ps样机
           url: https://psyangji.com/
+        - name: 添加水印
+          description: 添加水印
+          url: https://img.logosc.cn/watermark
     - name: 视频编辑工具
       sites:
         - name: cobalt
