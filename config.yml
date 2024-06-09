@@ -435,3 +435,6 @@ content:
         - name: 订阅汇集
           description: 各种订阅汇集管理
           url: https://github.com/cmliu/CF-Workers-SUB
+        - name: U盘启动器
+          description: U盘启动器
+          url: https://github.com/ventoy/Ventoy
