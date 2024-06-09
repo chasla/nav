@@ -212,6 +212,9 @@ content:
         - name: 12FT  
           description: 破收费阅读
           url: https://12ft.io/
+        - name: 手写体文稿生成器  
+          description: 手写体文稿生成器
+          url: https://vtool.pro/handwriting/index.html
     - name: 图片编辑工具
       sites:
         - name: ideogram
