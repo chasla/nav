@@ -322,9 +322,9 @@ content:
         - name: racknerd
           description: vps
           url: https://www.racknerd.com
-        - name: kurun
-          description: vps
-          url: https://www.kurun.com
+        - name: agiso  
+          description: 自动发货程序
+          url: https://www.agiso.com
     - name: 免费素材
       sites:
         - name: Unsplash
