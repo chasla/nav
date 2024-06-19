@@ -61,6 +61,9 @@ content:
         - name: teracloud
           description: 网盘
           url: https://seto.teracloud.jp/browser/
+        - name: 图片转excel  
+          description: 图片转excel
+          url: https://app.xunjiepdf.com/img2excel/
     - name: AI
       sites:
         - name: perplexity
